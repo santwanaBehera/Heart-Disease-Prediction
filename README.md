@@ -93,7 +93,7 @@ HOW TO RUN
 
 Clone the repository
 
-git clone 
+git clone https://github.com/santwanaBehera/Heart-Disease-Prediction.git
 cd heart-disease-prediction
 Install dependencies
 
